@@ -1,111 +1,111 @@
-0.0.0.0 18videofullhd.info
-0.0.0.0 a.395bc5eaa00405ae7569b258246f23c4.com
-0.0.0.0 a.a60b4ddd0c257fb3f1bb059bcbc42862.com
-0.0.0.0 a.f6591f7b0fcba816ef1d195e7ffd1e6c.com
-0.0.0.0 a.smartnetworld.xyz
-0.0.0.0 a4.tl2
-0.0.0.0 accengage.com 
-0.0.0.0 ads-fa.spotify.com 
-0.0.0.0 ads.kukku.com
-0.0.0.0 ads.thoompunkal.com
-0.0.0.0 analytics.religarehealthinsurance.com
-0.0.0.0 ap-southeast-1.compute.amazonaws.com
-0.0.0.0 api-eu.bidmachine.io
-0.0.0.0 api.branch.io
-0.0.0.0 api.safegraph.com
-0.0.0.0 api.simplisafe.com
-0.0.0.0 api.tastyworks.com
-0.0.0.0 api.zwizzarmyknife.com
-0.0.0.0 app-measurement.com 
-0.0.0.0 app.adjust.com
-0.0.0.0 ati-host.net
-0.0.0.0 audio2.spotify.com
-0.0.0.0 azmobilestore.co
-0.0.0.0 batch.com 
-0.0.0.0 bestgore.com
-0.0.0.0 bitcheese.net
-0.0.0.0 blog.nitroxenon.com
-0.0.0.0 cashback-phonepey.co
-0.0.0.0 cc.naver.jp
-0.0.0.0 cdn.cloud.altbalaji.com
-0.0.0.0 cdn.leon.ru
-0.0.0.0 cdn.vidible.tv
-0.0.0.0 claean-app.xyz
-0.0.0.0 crashlogs.woniu.com
-0.0.0.0 d1.cdn.adbetnet.com
-0.0.0.0 d3w2id5zlqvvik.cloudfront.net
-0.0.0.0 databerries.com 
-0.0.0.0 deathaddict.com
-0.0.0.0 deathandreality.com
-0.0.0.0 deliveroo.com.sg
-0.0.0.0 delivery.vidible.tv
-0.0.0.0 documentingreality.com
-0.0.0.0 ec2-52-48-178-253.eu-west-1.compute.amazonaws.com
-0.0.0.0 edge-star-shv-01-bom1.facebook.com
-0.0.0.0 elblogdelnarco.com
-0.0.0.0 eu-west-1.compute.amazonaws.com
-0.0.0.0 f5v1x3kgv5.com
-0.0.0.0 getmesec.xyz
-0.0.0.0 gorebrasil.com
-0.0.0.0 goregrish.com
-0.0.0.0 graph.facebook.com 
-0.0.0.0 gstatic.kiwibrowser.com
-0.0.0.0 haggler-doubleclick067-ap-ne1-ec2.liftoff.io
-0.0.0.0 horriblevideos.com
-0.0.0.0 images.leon.ru
-0.0.0.0 images.startappservice.com
-0.0.0.0 init.startappexchange.com
-0.0.0.0 izatcloud.net
-0.0.0.0 kaotic.com
-0.0.0.0 leakreality.com
-0.0.0.0 leanplum.com 
-0.0.0.0 li1432-193.members.linode.com
-0.0.0.0 m.zhaibei112.top
-0.0.0.0 mailchi.mp
-0.0.0.0 miscopy.com
-0.0.0.0 mixtape.moe
-0.0.0.0 mobile9897.drumteam99.live
-0.0.0.0 movip.wps.com  
-0.0.0.0 mxtsr.com
-0.0.0.0 ogrish.tv
-0.0.0.0 p-v2.presage.io 
-0.0.0.0 pagead46.l.doubleclick.net 
-0.0.0.0 parhegno.com
-0.0.0.0 phonepe-cashback.xyz
-0.0.0.0 pogger.cloudmobi.net
-0.0.0.0 pushid-noneu.truecaller.com
-0.0.0.0 r1oman.com
-0.0.0.0 s.zkcdn.net
-0.0.0.0 sam4m.com
-0.0.0.0 saspreview.com
-0.0.0.0 schibsted.com
-0.0.0.0 schibsted.io  
-0.0.0.0 sgbid.prod.sift.co
-0.0.0.0 sickjunk.com
-0.0.0.0 sift-campaign-creatives.s3.amazonaws.com 
-0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
-0.0.0.0 soma.smaata.net
-0.0.0.0 speaker-news.com
-0.0.0.0 sqm.woniu.com
-0.0.0.0 srv1.xbext.com
-0.0.0.0 srv2.xbext.com
-0.0.0.0 sslclick.union.ucweb.com
-0.0.0.0 storiespace.com 
-0.0.0.0 sync2ad.com 
-0.0.0.0 thepinsta.com
-0.0.0.0 theync.com
-0.0.0.0 trck.unixmobi.com
-0.0.0.0 trfmxt.com
-0.0.0.0 truecaller-marketing.s3-eu-west-1.amazonaws.com
-0.0.0.0 ultimedia.com
-0.0.0.0 uselnk.com
-0.0.0.0 v.jwpcdn.com 
-0.0.0.0 vectaury.io
-0.0.0.0 veirregnant.club
-0.0.0.0 videos.vidible.tv
-0.0.0.0 vidmax.com
-0.0.0.0 watchdog.goodbyeads
-0.0.0.0 weborama.net
-0.0.0.0 www.mysam.sg
-0.0.0.0 xml.adbetnet.com
-0.0.0.0 yaarlnk.com
+18videofullhd.info
+a.395bc5eaa00405ae7569b258246f23c4.com
+a.a60b4ddd0c257fb3f1bb059bcbc42862.com
+a.f6591f7b0fcba816ef1d195e7ffd1e6c.com
+a.smartnetworld.xyz
+a4.tl2
+accengage.com 
+ads-fa.spotify.com 
+ads.kukku.com
+ads.thoompunkal.com
+analytics.religarehealthinsurance.com
+ap-southeast-1.compute.amazonaws.com
+api-eu.bidmachine.io
+api.branch.io
+api.safegraph.com
+api.simplisafe.com
+api.tastyworks.com
+api.zwizzarmyknife.com
+app-measurement.com 
+app.adjust.com
+ati-host.net
+audio2.spotify.com
+azmobilestore.co
+batch.com 
+bestgore.com
+bitcheese.net
+blog.nitroxenon.com
+cashback-phonepey.co
+cc.naver.jp
+cdn.cloud.altbalaji.com
+cdn.leon.ru
+cdn.vidible.tv
+claean-app.xyz
+crashlogs.woniu.com
+d1.cdn.adbetnet.com
+d3w2id5zlqvvik.cloudfront.net
+databerries.com 
+deathaddict.com
+deathandreality.com
+deliveroo.com.sg
+delivery.vidible.tv
+documentingreality.com
+ec2-52-48-178-253.eu-west-1.compute.amazonaws.com
+edge-star-shv-01-bom1.facebook.com
+elblogdelnarco.com
+eu-west-1.compute.amazonaws.com
+f5v1x3kgv5.com
+getmesec.xyz
+gorebrasil.com
+goregrish.com
+graph.facebook.com 
+gstatic.kiwibrowser.com
+haggler-doubleclick067-ap-ne1-ec2.liftoff.io
+horriblevideos.com
+images.leon.ru
+images.startappservice.com
+init.startappexchange.com
+izatcloud.net
+kaotic.com
+leakreality.com
+leanplum.com 
+li1432-193.members.linode.com
+m.zhaibei112.top
+mailchi.mp
+miscopy.com
+mixtape.moe
+mobile9897.drumteam99.live
+movip.wps.com  
+mxtsr.com
+ogrish.tv
+p-v2.presage.io 
+pagead46.l.doubleclick.net 
+parhegno.com
+phonepe-cashback.xyz
+pogger.cloudmobi.net
+pushid-noneu.truecaller.com
+r1oman.com
+s.zkcdn.net
+sam4m.com
+saspreview.com
+schibsted.com
+schibsted.io  
+sgbid.prod.sift.co
+sickjunk.com
+sift-campaign-creatives.s3.amazonaws.com 
+sm-campaign.s3-us-west-2.amazonaws.com
+soma.smaata.net
+speaker-news.com
+sqm.woniu.com
+srv1.xbext.com
+srv2.xbext.com
+sslclick.union.ucweb.com
+storiespace.com 
+sync2ad.com 
+thepinsta.com
+theync.com
+trck.unixmobi.com
+trfmxt.com
+truecaller-marketing.s3-eu-west-1.amazonaws.com
+ultimedia.com
+uselnk.com
+v.jwpcdn.com 
+vectaury.io
+veirregnant.club
+videos.vidible.tv
+vidmax.com
+watchdog.goodbyeads
+weborama.net
+www.mysam.sg
+xml.adbetnet.com
+yaarlnk.com
